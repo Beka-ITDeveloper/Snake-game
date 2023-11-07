@@ -1,0 +1,33 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+canvas {
+    border: 1px solid #fff;
+}
+#btn {
+    width: 80px;
+    height: 70px;
+    font-size: 50px;
+    background: none;
+    color: #fff;
+}
